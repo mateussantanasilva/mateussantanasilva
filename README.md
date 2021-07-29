@@ -1,10 +1,11 @@
 ### Olá, sou o Mateus! 👋
 
-<div>
+<p align="right">
   <a href="https://github.com/mateussantanasilva">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=mateussantanasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussantanasilva&theme=tokyonight&show_icons=true" />
-</div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Freitas-gui&theme=tokyonight&show_icons=true" />
+
+  <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas-gui&theme=tokyonight&show_icons=true" />
+</p>  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
