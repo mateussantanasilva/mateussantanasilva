@@ -2,9 +2,9 @@
 
 <p align="right">
   <a href="https://github.com/mateussantanasilva">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Freitas-gui&theme=tokyonight&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mateussantanasilva&theme=tokyonight&show_icons=true" />
 
-  <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas-gui&theme=tokyonight&show_icons=true" />
+  <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussantanasilva&theme=tokyonight&show_icons=true" />
 </p>  
   
 <div style="display: inline_block"><br>
