@@ -1,4 +1,4 @@
-### Olá, sou o Mateus! 👋
+### Olá, sou o Mateus! 👋 <a href="https://drive.google.com/file/d/1e3Vt3eNexfdMmHv-rygkEL3qpHL6D9g7/view?usp=sharing" target="_blank"> ✔️Clique aqui e acesse o meu currículo</a>
 
 <p align="right">
   <a href="https://mateussantanasilva.github.io/Portifolio/">
