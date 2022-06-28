@@ -1,24 +1,49 @@
-### Olá, sou o Mateus! 👋 <a href="https://drive.google.com/file/d/1e3Vt3eNexfdMmHv-rygkEL3qpHL6D9g7/view?usp=sharing" target="_blank"> ✔️Clique aqui e acesse o meu currículo</a>
+<h1 align="center">👋 Meu nome é Mateus!</h1>
 
-<p align="right">
-  <a href="https://mateussantanasilva.github.io/Portfolio/">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=mateussantanasilva&theme=tokyonight&show_icons=true" />
-    <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussantanasilva&theme=tokyonight&show_icons=true" />
-</p>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
+<br>
+
+- 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Zona Leste
+- 💻 Estudo tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Zona Leste
+- ⚡ Estudando para me aprimorar...
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=mateussantanasilva" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&username=mateussantanasilva" height="175" alt="languages graph"  />
 </div>
 
-##
+---
 
-<div>
-  <a href="https://www.linkedin.com/in/mateus-santana-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<h2 align="left"">👨‍💻 Tecnologias</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="55" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="55" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="55" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="55" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="55" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="55" alt="git logo"  />
 </div>
+
+---
+
+<h2 align="left">📑 Aprendizagem</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="55" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" width="55" alt="heroku logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="55" alt="postgresql logo"  />
+</div>
+
+---
+
+<h2 align="left">📞 Contato</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/mateus-santana-silva/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:santanasilva1778@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+---
