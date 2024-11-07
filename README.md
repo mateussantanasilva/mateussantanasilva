@@ -4,7 +4,6 @@
 
 - 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC Zona Leste
 - 💻 Estudo tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Zona Leste
-- ⚡ Estudando para me aprimorar...
 
 <br>
 
@@ -17,26 +16,16 @@
 
 <h2 align="left"">👨‍💻 Tecnologias</h2>
 <div align="left">
-  <img src="https://cdn.simpleicons.org/next.js/white" height="40" width="55" alt="next logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35" width="50" alt="tailwind logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="55" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="55" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="55" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="55" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="55" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="55" alt="sqlite logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="55" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=next,tailwind,react,typescript,nodejs,mysql,mongodb,sqlite,git,figma"/>
+  <img src="https://cdn.simpleicons.org/react/667dff" height="40" width="55" alt="react native logo"  />
+  <img src="https://cdn.simpleicons.org/expo/white" height="40" width="55" alt="expo logo" color="#000"  />
 </div>
   
 ---
 
 <h2 align="left">📑 Aprendizagem</h2>
 <div align="left">
-  <img src="https://cdn.simpleicons.org/react/667dff" height="40" width="55" alt="react native logo"  />
-  <img src="https://cdn.simpleicons.org/expo/white" height="40" width="55" alt="expo logo"  />
-  <img src="https://cdn.simpleicons.org/docker" height="40" width="55" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="55" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="55" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs,docker,jest,vitest,supabase,postgresql,firebase,astro"/>
 </div>
 
 ---
