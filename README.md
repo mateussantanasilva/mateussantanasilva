@@ -2,7 +2,7 @@
 
 <br>
 
-- 🎓 Formação Superior Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Zona Leste (2024)
+- 🎓 Formação Superior (Láurea Acadêmica) Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Zona Leste (2024)
 - 🎓 Formação Técnica em Desenvolvimento de Sistemas pela ETEC Zona Leste (2021)
 
 <br>
