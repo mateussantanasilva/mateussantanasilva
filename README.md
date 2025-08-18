@@ -2,8 +2,9 @@
 
 <br>
 
-- 🎓 Formação Superior (Láurea Acadêmica) Tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Zona Leste (2024)
-- 🎓 Formação Técnica em Desenvolvimento de Sistemas pela ETEC Zona Leste (2021)
+- 📚 Cursando **Pós-graduação em Engenharia de Software** pela Faculdade Metropolitana
+- 🎓 Graduado em **Desenvolvimento de Software Multiplataforma** pela FATEC Zona Leste (2024) — Láurea Acadêmica  
+- 🎓 Técnico em **Desenvolvimento de Sistemas** pela ETEC Zona Leste (2021)  
 
 <br>
 
